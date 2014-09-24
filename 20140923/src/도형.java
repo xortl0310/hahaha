@@ -8,7 +8,7 @@ import java.awt.event.WindowEvent;
 public class 도형 extends Frame{
 	
 	public void StartMain()
-	{
+	{ // System.out.println(ggg);
 		this.setSize(800, 600);
 		this.setVisible(true);
 		
