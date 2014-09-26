@@ -19,7 +19,7 @@ public class ¿Õ∏Ì≈¨∑°Ω∫ {
 		
 		btn.addActionListener(new ActionListener() {
 			
-			@Override
+	
 			public void actionPerformed(ActionEvent e) {
 				System.out.println("∏ﬁ∑’∏ﬁ∑’");
 				

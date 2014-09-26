@@ -32,6 +32,7 @@ public class ±×¸®±â extends Frame {
 
 		this.setSize(width, height);
 		this.setVisible(true);
+		
 		this.addWindowListener(new WindowAdapter() {
 			public void windowClosing(WindowEvent e) {
 				System.exit(0);
